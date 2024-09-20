@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Khayrul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh with 2 years of experience.</h3>
 <img align="right" width="400" src="coding.gif"/>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=coder-khayrul&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo)" alt="coder-khayrul" /> </p>
-
 
 - 🔭 I’m currently working on [Charity Website](https://coder-khayrul.github.io/charity-demo.github.io/)
 
