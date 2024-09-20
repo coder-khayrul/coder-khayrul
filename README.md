@@ -1,4 +1,4 @@
-! [logo](https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png)
+![logo](https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png)
 <h1 align="center">Hi 👋, I'm Khayrul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh with 2 years of experience.</h3>
 <img align="right" width="400" src="coding.gif"/>
