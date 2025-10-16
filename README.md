@@ -15,9 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a href="https://x.com/khayrulislam__">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
-  </a>
   <a href="https://www.linkedin.com/in/khayrulislamofficial">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
   </a>
@@ -26,6 +23,9 @@
   </a>
   <a href="http://facebook.com/khayrulislam.fb">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
+  </a>
+    <a href="https://x.com/khayrulislam__">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
   </a>
   <a href="https://www.behance.net/khayrulislamofficial">
     <img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" height="25">
