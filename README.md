@@ -14,13 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link](https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khayrulislam__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khayrulislam__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khayrulislamofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khayrulislamofficial" height="30" width="40" /></a>
-<a href="https://fb.com/khayrulislam.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khayrulislam.fb" height="30" width="40" /></a>
-<a href="https://instagram.com/khayrulislam__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khayrulislam__" height="30" width="40" /></a>
-<a href="https://www.behance.net/khayrulislamofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khayrulislamofficial" height="30" width="40" /></a>
-</p>
+<p><a href="https://x.com/khayrulislam__"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khayrulislamofficial"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/khayrulislam__"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="http://facebook.com/khayrulislam.fb"><img src="https://img.shields.io/badge/facebook-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-khayrul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
