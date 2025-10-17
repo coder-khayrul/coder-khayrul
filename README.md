@@ -1,90 +1,104 @@
-![logo](https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png)
+![Banner](https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png)
+
 <h1 align="center">Hi 👋, I'm Khayrul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh with 2 years of experience.</h3>
-<br>
-<h3 align="left">👨‍💼 About Me</h3>  
-I’m Khayrul Islam, a dedicated Front-End Web Developer from Sylhet, Bangladesh, with strong expertise in creating responsive, user-focused, and visually appealing websites.
-I specialize in translating modern UI/UX designs into clean, efficient code using technologies like HTML, CSS, JavaScript, React, and WordPress.
+<h3 align="center">Frontend Developer | Passionate About Crafting Modern, Responsive, and User-Focused Web Experiences</h3>
+
+---
+
+### 👨‍💼 About Me
+I’m **Khayrul Islam**, a dedicated **Front-End Web Developer** from Sylhet, Bangladesh, with strong expertise in creating responsive, user-focused, and visually appealing websites.
+I specialize in translating **modern UI/UX designs** into clean, efficient code using technologies like **HTML, CSS, JavaScript, React, and WordPress**.
 I’m currently enhancing my proficiency in Next.js and exploring advanced front-end performance optimization techniques to deliver scalable, high-quality web solutions.
-<br><br>
+
 <img align="right" width="400" src="coding.gif"/>
 
-- 🔭 I’m currently working on [Charity Website](https://coder-khayrul.github.io/charity-demo.github.io/)
+---
 
-- 🌱 I’m currently learning **React.js, Next.js**
+### 🚀 Current Activities
+- 🔭 Working on a [Charity Website](https://coder-khayrul.github.io/charity-demo.github.io/)  
+- 🌱 Exploring **Next.js** & advanced React development  
+- 👨‍💻 Showcasing projects at [My Portfolio](https://khayrul-islam.netlify.app/)  
+- 📫 Reach me at **khayrulislam200822@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link)
 
-- 👨‍💻 All of my projects are available at [https://khayrul-islam.netlify.app/](https://khayrul-islam.netlify.app/)
+---
 
-- 📫 How to reach me **khayrulislam200822@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link](https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
+### 💼 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/khayrulislamofficial">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
-  </a>
-  <a href="https://www.instagram.com/khayrulislam__">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
   </a>
   <a href="http://facebook.com/khayrulislam.fb">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25">
   </a>
-    <a href="https://x.com/khayrulislam__">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
+  <a href="https://x.com/khayrulislam__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25">
   </a>
   <a href="https://www.behance.net/khayrulislamofficial">
-    <img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="25">
   </a>
- <a href="https://wa.me/8801942665256" target="_blank">
-  <img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="25">
-</a>
-
 </p>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-khayrul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/coder-khayrul/charity-demo.github.io" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=charity-demo.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/coder-khayrul/custom_printing-demo.github.io" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=custom_printing-demo.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/coder-khayrul/tech-vault" title="tech-vault"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=tech-vault&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/coder-khayrul/personal-portfolio" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=personal-portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+---
 
+### 🧠 Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+#### 🖥️ Frontend Development
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+#### 🎨 UI Frameworks & Styling
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+#### 🧰 Tools & Design
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<br/><br/><br/><br/><br/><br/>
 
+---
 
-<h3 align="left">My Activites:</h3>
+### 📂 Featured Repositories
+<div align="center">
+  <a href="https://github.com/coder-khayrul/charity-demo.github.io"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=charity-demo.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/coder-khayrul/custom_printing-demo.github.io"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=custom_printing-demo.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-khayrul&show_icons=true&locale=en&layout=compact" alt="coder-khayrul" /></p>
+<div align="center">
+  <a href="https://github.com/coder-khayrul/tech-vault"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=tech-vault&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/coder-khayrul/personal-portfolio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=personal-portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-khayrul&show_icons=true&locale=en" alt="coder-khayrul" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-khayrul&" alt="coder-khayrul" /></p>
-<p align="left"> <a href="https://github.com/coder-khayrul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-khayrul" alt="coder-khayrul" /></a> </p>
-<br><br><br><br><br>
-<!-- Banner Image -->
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github.com/khayrul-islam/banner/blob/main/github-banner.png" alt="Khayrul Islam Banner" width="100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-khayrul&show_icons=true&locale=en&layout=compact" alt="coder-khayrul" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-khayrul&show_icons=true&locale=en" alt="coder-khayrul" />
 </p>
 
-⭐ **“Code. Design. Inspire.”**  
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-khayrul&" alt="coder-khayrul" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-khayrul&theme=react-dark&bg_color=20232a&hide_border=true" width="95%" />
+</p>
+<p align="left"> <a href="https://github.com/coder-khayrul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-khayrul" alt="coder-khayrul" /></a> </p>
+
+
+---
+
+⭐ **“Code. Design. Inspire.”**
+
