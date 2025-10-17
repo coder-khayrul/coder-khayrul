@@ -1,6 +1,12 @@
 ![logo](https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png)
 <h1 align="center">Hi 👋, I'm Khayrul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh with 2 years of experience.</h3>
+<br>
+<h3 align="left">👨‍💼 About Me</h3>  
+I’m Khayrul Islam, a dedicated Front-End Web Developer from Sylhet, Bangladesh, with strong expertise in creating responsive, user-focused, and visually appealing websites.
+I specialize in translating modern UI/UX designs into clean, efficient code using technologies like HTML, CSS, JavaScript, React, and WordPress.
+I’m currently enhancing my proficiency in Next.js and exploring advanced front-end performance optimization techniques to deliver scalable, high-quality web solutions.
+<br><br>
 <img align="right" width="400" src="coding.gif"/>
 
 - 🔭 I’m currently working on [Charity Website](https://coder-khayrul.github.io/charity-demo.github.io/)
@@ -74,4 +80,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-khayrul&show_icons=true&locale=en" alt="coder-khayrul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-khayrul&" alt="coder-khayrul" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-khayrul" alt="coder-khayrul" /></a> </p>
+<p align="left"> <a href="https://github.com/coder-khayrul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-khayrul" alt="coder-khayrul" /></a> </p>
+<br><br><br><br><br>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/khayrul-islam/banner/blob/main/github-banner.png" alt="Khayrul Islam Banner" width="100%" />
+</p>
+
+⭐ **“Code. Design. Inspire.”**  
