@@ -17,7 +17,7 @@ I’m currently enhancing my proficiency in Next.js and exploring advanced front
 ### 🚀 Current Activities
 - 🔭 Working on a [Charity Website](https://coder-khayrul.github.io/charity-demo.github.io/)  
 - 🌱 Exploring **Next.js** & advanced React development  
-- 👨‍💻 Showcasing projects at [My Portfolio](https://khayrul-islam.netlify.app/)  
+- 👨‍💻 Showcasing projects at [My Portfolio](https://khayrul-islam.vercel.app/)  
 - 📫 Reach me at **khayrulislam200822@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link)
 
@@ -71,13 +71,15 @@ I’m currently enhancing my proficiency in Next.js and exploring advanced front
 
 ### 📂 Featured Repositories
 <div align="center">
-  <a href="https://github.com/coder-khayrul/charity-demo.github.io"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=charity-demo.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/coder-khayrul/custom_printing-demo.github.io"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=custom_printing-demo.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/coder-khayrul/tech-vault">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=tech-vault&theme=react&border_color=61dafb&border_radius=10&cache_bust=1">
+  </a>
+  <a href="https://github.com/coder-khayrul/kindforces-client"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=kindforces-client&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/coder-khayrul/tech-vault"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=tech-vault&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/coder-khayrul/personal-portfolio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=personal-portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/coder-khayrul/recipelog-client"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=recipelog-client&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/coder-khayrul/Charity-Zone"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=Charity-Zone&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 ---
