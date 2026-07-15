@@ -1,70 +1,110 @@
-![Banner](https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png)
+<p align="center">
+<img src="https://github.com/coder-khayrul/coder-khayrul/blob/main/khayrul%20islam%20cover%20%20-%20Copy.png" width="100%">
+</p>
 
-<h1 align="center">Hi 👋, I'm Khayrul Islam</h1>
-<h3 align="center">Frontend Developer | Passionate About Crafting Modern, Responsive, and User-Focused Web Experiences</h3>
+<h1 align="center">Hi 👋 I'm Khayrul Islam</h1>
 
----
+<h3 align="center">
+Frontend Developer • React Developer • UI Engineer
+</h3>
 
-### 👨‍💼 About Me
-I’m **Khayrul Islam**, a dedicated **Front-End Web Developer** from Sylhet, Bangladesh, with strong expertise in creating responsive, user-focused, and visually appealing websites.
-I specialize in translating **modern UI/UX designs** into clean, efficient code using technologies like **HTML, CSS, JavaScript, React, and WordPress**.
-I’m currently enhancing my proficiency in Next.js and exploring advanced front-end performance optimization techniques to deliver scalable, high-quality web solutions.
+<p align="center">
 
-<img align="right" width="400" src="coding.gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
----
+</p>
 
-### 🚀 Current Activities
-- 🔭 Working on a [Charity Website](https://coder-khayrul.github.io/charity-demo.github.io/)  
-- 🌱 Exploring **Next.js** & advanced React development  
-- 👨‍💻 Showcasing projects at [My Portfolio](https://khayrul-islam.vercel.app/)  
-- 📫 Reach me at **khayrulislam200822@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0?usp=drive_link)
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=coder-khayrul&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
-### 💼 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/khayrulislamofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
-  </a>
-  <a href="http://facebook.com/khayrulislam.fb">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25">
-  </a>
-  <a href="https://x.com/khayrulislam__">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25">
-  </a>
-  <a href="https://www.behance.net/khayrulislamofficial">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="25">
-  </a>
 </p>
 
 ---
 
-### 🧠 Skills & Tools
+# 💫 About Me
 
-#### 🖥️ Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img align="right" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+I'm **Khayrul Islam**, a passionate **Frontend Developer** from **Sylhet, Bangladesh 🇧🇩**.
+
+I enjoy transforming beautiful UI designs into responsive, accessible, and high-performance web applications.
+
+### Currently
+
+- 🔭 Building modern React applications
+- 🌱 Learning Next.js & Backend Development
+- ⚡ Improving UI/UX & Performance Optimization
+- 💼 Open to Freelance Opportunities
+
+---
+
+# 🌐 Portfolio
+
+🌍 Portfolio: https://khayrul-islam.vercel.app
+
+📄 Resume: https://drive.google.com/drive/folders/1A3H8-Cvn9R9jUWqBP8TCXorwD7DlpLb0
+
+📧 Email: khayrulislam200822@gmail.com
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/khayrulislamofficial">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://facebook.com/khayrulislam.fb">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://x.com/khayrulislam__">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://www.behance.net/khayrulislamofficial">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
+</a>
+
 </p>
 
-#### 🎨 UI Frameworks & Styling
+---
+
+# 💻 Tech Stack
+
+## Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+
 </p>
 
-#### 🧰 Tools & Design
+## Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass"/>
+
+</p>
+
+## Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,wordpress"/>
+
 </p>
 
 ---
@@ -170,23 +210,34 @@ HTML • CSS • Bootstrap • JavaScript
 
 ---
 
-### 📊 GitHub Stats
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-khayrul&show_icons=true&locale=en&layout=compact" alt="coder-khayrul" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-khayrul&show_icons=true&locale=en" alt="coder-khayrul" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coder-khayrul&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-khayrul&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-khayrul&" alt="coder-khayrul" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-khayrul&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-khayrul&theme=react-dark&bg_color=20232a&hide_border=true" width="95%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-khayrul&theme=tokyo-night"/>
+
 </p>
-<p align="left"> <a href="https://github.com/coder-khayrul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-khayrul" alt="coder-khayrul" /></a> </p>
 
 
 ---
 
-⭐ **“Code. Design. Inspire.”**
+<p align="center">
 
+### ⭐ Code • Create • Inspire
+
+</p>
