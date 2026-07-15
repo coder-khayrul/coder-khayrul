@@ -70,17 +70,103 @@ I’m currently enhancing my proficiency in Next.js and exploring advanced front
 ---
 
 ### 📂 Featured Repositories
-<div align="center">
-  <a href="https://github.com/coder-khayrul/tech-vault">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=tech-vault&theme=react&border_color=61dafb&border_radius=10&cache_bust=1">
-  </a>
-  <a href="https://github.com/coder-khayrul/kindforces-client"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=kindforces-client&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+<table>
 
-<div align="center">
-  <a href="https://github.com/coder-khayrul/recipelog-client"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=recipelog-client&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/coder-khayrul/Charity-Zone"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-khayrul&repo=Charity-Zone&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+<tr>
+
+<td width="50%" valign="top">
+
+## KindForces
+
+A modern charity platform that connects donors, volunteers, and organizations to make giving back easier and more impactful.
+
+**🛠️ Tech Stack**
+
+React • Firebase • Tailwind CSS
+
+<br>
+
+<a href="https://kindforces.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/coder-khayrul/kindforces-client">
+<img src="https://img.shields.io/badge/📂_Source_Code-111827?style=for-the-badge">
+</a>
+</td>
+
+<td width="50%" valign="top">
+
+## Tech Vault
+
+A modern developer resource platform for discovering tools, articles, and useful web development resources.
+
+**🛠️ Tech Stack**
+
+React • Tailwind CSS • JavaScript
+
+<br>
+<a href="https://tech-vault-web.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/coder-khayrul/tech-vault">
+<img src="https://img.shields.io/badge/📂_Source_Code-111827?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## Recipe Log
+
+A recipe management application where users can discover, organize, and share their favorite recipes.
+
+**🛠️ Tech Stack**
+
+React • Express • MongoDB • Firebase
+
+<br>
+
+<a href="http://recipe-log.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/coder-khayrul/recipelog-client">
+<img src="https://img.shields.io/badge/📂_Source_Code-111827?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Charity Zone
+
+A responsive charity website designed to inspire donations and showcase charitable initiatives with an engaging user experience.
+
+**🛠️ Tech Stack**
+
+HTML • CSS • Bootstrap • JavaScript
+
+<br>
+
+<a href="https://coder-khayrul.github.io/Charity-Zone/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/coder-khayrul/Charity-Zone">
+<img src="https://img.shields.io/badge/📂_Source_Code-111827?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
